@@ -1,0 +1,146 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Halal Point on Sale</title>
+  <subtitle></subtitle>
+  <updated>2022-07-15T07:08:36-05:00</updated>
+  <author>
+    <name>Macalim Jaakoole</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
+  <rights> © 2022 Macalim Jaakoole </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Viva Somalia</title>
+    <link href="http://localhost:4000/posts/war-bax/" rel="alternate" type="text/html" title="Viva Somalia" />
+    <published>2022-07-14T00:00:00-05:00</published>
+  
+    <updated>2022-07-14T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/war-bax/</id>
+    <content src="http://localhost:4000/posts/war-bax/" />
+    <author>
+      <name>Macalim Jaakoole</name>
+    </author>
+
+  
+    
+    <category term="Halal" />
+    
+    <category term="Wasaaye" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+       Wasaayo
+Waxaan soo wada alle og ee la socda dee tuughayoow waa waalan tihiin.
+Waxaan soo wada alle og ee la socda dee tuughayoow waa waalan tihiin.
+Waxaan soo wada alle og ee la socda dee tuughayoow waa waalan tihiin.
+Waxaan soo wada alle og ee la socda dee tuughayoow waa waalan tihiin.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Fuck You Raryaa</title>
+    <link href="http://localhost:4000/posts/my-first-post/" rel="alternate" type="text/html" title="Fuck You Raryaa" />
+    <published>2022-07-14T00:00:00-05:00</published>
+  
+    <updated>2022-07-14T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/my-first-post/</id>
+    <content src="http://localhost:4000/posts/my-first-post/" />
+    <author>
+      <name>Macalim Jaakoole</name>
+    </author>
+
+  
+    
+    <category term="Halal" />
+    
+    <category term="Xaaraan" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+       Waryaada
+Waxaan soo wada alle og ee la socda dee tuughayoow waa waalan tihiin.
+Waxaan soo wada alle og ee la socda dee tuughayoow waa waalan tihiin.
+Waxaan soo wada alle og ee la socda dee tuughayoow waa waalan tihiin.
+Waxaan soo wada alle og ee la socda dee tuughayoow waa waalan tihiin.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Futo kaa Wasaa</title>
+    <link href="http://localhost:4000/posts/futo-macaan/" rel="alternate" type="text/html" title="Futo kaa Wasaa" />
+    <published>2022-07-14T00:00:00-05:00</published>
+  
+    <updated>2022-07-14T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/futo-macaan/</id>
+    <content src="http://localhost:4000/posts/futo-macaan/" />
+    <author>
+      <name>Macalim Jaakoole</name>
+    </author>
+
+  
+    
+    <category term="Halal" />
+    
+    <category term="Naag" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+       Wasaayo
+Waxaan soo wada alle og ee la socda dee tuughayoow waa waalan tihiin.
+Waxaan soo wada alle og ee la socda dee tuughayoow waa waalan tihiin.
+Waxaan soo wada alle og ee la socda dee tuughayoow waa waalan tihiin.
+Waxaan soo wada alle og ee la socda dee tuughayoow waa waalan tihiin.
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
